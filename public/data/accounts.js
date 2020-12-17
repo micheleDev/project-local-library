@@ -910,3 +910,4 @@ const accounts = [
     registered: "Saturday, November 4, 2017 12:19 AM",
   },
 ];
+module.exports=accounts
